@@ -47,3 +47,5 @@ def linearconv(nx):
             u[i]=un[i]-dt/dx*c*(un[i]-un[i-1])
     plt.plot(np.linspace(0,2,nx),u)
     
+#added a comment in the bottom line
+    
