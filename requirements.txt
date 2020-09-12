@@ -1,0 +1,8 @@
+wget==3.2
+panda==1.0.5
+nump==1.18.5
+geop==2.0.0
+altai==4.1.0
+veg==3.4.0
+vega_dataset==0.8.0
+watermar==2.0.2
